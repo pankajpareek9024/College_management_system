@@ -49,7 +49,7 @@
 		
 		<section class="ftco-section ftco-no-pt ftco-no-pb contact-section">
 			<div class="container">
-				<div class="row d-flex align-items-stretch no-gutters">
+				<div class="">
 					<div class="col-md-6 p-4 p-md-5 order-md-last bg-light">
 						<form action="contact" method="post">
               <div class="form-group">
@@ -64,9 +64,6 @@
                 <input type="submit" name="sendMsg" value="Send Message" class="btn btn-primary py-3 px-5">
               </div>
             </form>
-					</div>
-					<div class="col-md-6 d-flex align-items-stretch">
-						<div id="map"></div>
 					</div>
 				</div>
 			</div>
